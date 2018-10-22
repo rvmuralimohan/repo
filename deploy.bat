@@ -1,1 +1,1 @@
-pscp "C:\Program Files (x86)\Jenkins\workspace\citi_groovy\target\ciit-0.0.1-SNAPSHOT.jar" root@192.168.56.102:/opt/apache-tomcat-7.0.91/webapps
+pscp 'C:\Program Files (x86)\Jenkins\workspace\citi_groovy\target\ciit-0.0.1-SNAPSHOT.jar' root@192.168.56.102:/opt/apache-tomcat-7.0.91/webapps
